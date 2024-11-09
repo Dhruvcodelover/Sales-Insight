@@ -1,5 +1,5 @@
- ### Sales Insights Data Analysis Project
-
+ Sales Insights Data Analysis Project
+  ============================
 
 ### Data Analysis Using SQL
 
@@ -41,8 +41,8 @@
 and transactions.market_code="Mark001";`
 
 
-Data Analysis Using Power BI
-============================
+### Data Analysis Using Power BI
+
 
 1. Formula to create norm_amount column
 
